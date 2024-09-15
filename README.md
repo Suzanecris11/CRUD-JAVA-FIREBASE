@@ -11,7 +11,7 @@ As seguintes ferramentas foram tilizadas na construção do projeto:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=white&labelColor=E68D19)
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=white&labelColor=F2BF26)
 
-## Video de apresentação do aplicativo
+## Video de apresentação do sistema
 
 <p align="center">
     <a href="https://youtu.be/xHi3Okygf3U?si=cNFTbRG5mmaer7lc" target="_blank">
